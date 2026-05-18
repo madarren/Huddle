@@ -17,6 +17,18 @@ A comprehensive website for hosting and managing gatherings with powerful featur
   - Non-AI Chatbot
 - **Gamification** - Rewards and engagement systems
 
+<img width="1200" height="1280" alt="image" src="https://github.com/user-attachments/assets/bcec2877-8d7f-4b9d-af9a-7eadfd49104c" />
+
+<img width="1829" height="753" alt="image" src="https://github.com/user-attachments/assets/f5fe405d-9f34-4c84-b2d5-108d541f4c03" />
+
+<img width="1830" height="1365" alt="image" src="https://github.com/user-attachments/assets/4e85b996-9730-42dc-9d28-04150c9cc31b" />
+
+<img width="1864" height="1500" alt="image" src="https://github.com/user-attachments/assets/deb1ae35-1256-4152-8f5a-445899c09327" />
+
+<img width="1737" height="1086" alt="image" src="https://github.com/user-attachments/assets/3ce315dd-51eb-421f-96a3-893a287dc15e" />
+
+<img width="1200" height="958" alt="image" src="https://github.com/user-attachments/assets/83e26bea-c21e-4c6e-977e-341dccf68f57" />
+
 ## 🚀 Manual Setup (UNIX Systems)
 
 ```bash
@@ -58,12 +70,7 @@ sudo service postgresql start
 sudo -u postgres createuser -P huddle_user
 sudo -u postgres createdb -O huddle_user huddle_db
 
-<img width="1200" height="1280" alt="image" src="https://github.com/user-attachments/assets/bcec2877-8d7f-4b9d-af9a-7eadfd49104c" />
-<img width="1829" height="753" alt="image" src="https://github.com/user-attachments/assets/f5fe405d-9f34-4c84-b2d5-108d541f4c03" />
-<img width="1830" height="1365" alt="image" src="https://github.com/user-attachments/assets/4e85b996-9730-42dc-9d28-04150c9cc31b" />
-<img width="1864" height="1500" alt="image" src="https://github.com/user-attachments/assets/deb1ae35-1256-4152-8f5a-445899c09327" />
-<img width="1200" height="958" alt="image" src="https://github.com/user-attachments/assets/83e26bea-c21e-4c6e-977e-341dccf68f57" />
-<img width="1737" height="1086" alt="image" src="https://github.com/user-attachments/assets/3ce315dd-51eb-421f-96a3-893a287dc15e" />
+
 
 
 
